@@ -14,7 +14,7 @@ English . [中文](./README_CN.md)
 <img src="https://github.com/heygsc/circle-net/blob/main/drag.gif" height="300">
 
 ## 🌐 Link
-https://heygsc.github.io/circle-net
+https://circle-net.pages.dev
 
 ## 🛠️​ FAQ​
 ##### ❓ ​​Why only 3-300?​
